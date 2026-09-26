@@ -1,0 +1,9 @@
+Metric,Definition,Interpretation
+Total Headcount,Count of employees,Workforce size
+Average Performance Rating,Mean current rating,Overall performance level
+Average Productivity Score,Mean productivity score,Output/quality/efficiency indicator
+Goal Achievement %,Completed goals ÷ assigned goals,Progress against objectives
+Task Completion %,Completed tasks ÷ assigned tasks,Execution indicator
+Average Quality Score,Mean quality score,Accuracy/quality outcome
+High Performers %,Exceptional employees ÷ headcount,Top category share
+Development Required %,Employees flagged for support,Learning/coaching population

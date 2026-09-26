@@ -1,0 +1,5 @@
+Segment,Employee Count,Avg Performance,Avg Productivity
+High Engagement + High Performance,0,#DIV/0!,#DIV/0!
+High Engagement + Lower Performance,238,3.983193277,85.79789916
+Lower Engagement + High Performance,0,#DIV/0!,#DIV/0!
+Lower Engagement + Lower Performance,262,3.877862595,85.44312977
